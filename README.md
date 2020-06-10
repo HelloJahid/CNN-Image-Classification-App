@@ -17,7 +17,7 @@ With my code, you can:
 * **Run App.py**
 * **load weights and image for test**
 * **click test image button**
-**for more to know click the image below(youtube video) **
+* **for more to know click the image below(youtube video) **
 
 [![Watch the video](assest/youtubecover.png)](https://youtu.be/kTE15hp6aIU)
 
