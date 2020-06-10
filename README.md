@@ -1,7 +1,5 @@
-# CNN---Image-Classification-App
+# CNN : Image-Classification-App
 A python based Desktop Demo  App. This app used for any Image classification application.
-
-# [PYTORCH] YOLO (You Only Look Once)
 
 ## Introduction
 This is a deep learning project. I used Convolutional Neural Networks to classify MNIST handwritten data. For more convenient propose of test data, used Tkinter to deploy a desktop app that can run any Os. You just need to select an image then all work done by this app. With this app anyone can apply image classification 
