@@ -13,7 +13,7 @@ This is a deep learning project. I used Convolutional Neural Networks to classif
 ## How to use my code
 
 With my code, you can:
-* **Run cnn.py => Train CNN model from scratch and save weight as h5 file**
+* **Open cnn.ipynb => Train CNN model from scratch and save weight as h5 file**
 * **Run App.py**
 * **load weights and image for test**
 * **click test image button**
