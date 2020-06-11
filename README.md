@@ -37,5 +37,5 @@ I used 4 different datases: VOC2007, VOC2012, COCO2014 and COCO2017. Statistics 
 
 | Dataset                | Classes | #Train images/objects | #Validation images/objects |
 |------------------------|:---------:|:-----------------------:|:----------------------------:|
-| MNIST                  |    10     |      600000             |           10000             |
+| MNIST                  |    10     |      60000              |           10000             |
 
